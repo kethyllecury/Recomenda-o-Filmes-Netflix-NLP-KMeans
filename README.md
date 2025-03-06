@@ -54,8 +54,8 @@ recomendados = recomendar_filmes("Naruto Shippuden the Movie: Blood Prison", top
 ```bash
 Filmes recomendados:
                                title                                           listed_in
-0                         Movie 1                                Action, Adventure
-1                         Movie 2                                Action, Drama
-2                         Movie 3                                Adventure, Fantasy
-3                         Movie 4                                Comedy, Action
-4                         Movie 5                                Action, Thriller
+0          InuYasha the Movie 3: Swords of an Honorable R...   Action & Adventure, Anime Features, International
+1          InuYasha the Movie 4: Fire on the Mystic Island     Action & Adventure, Anime Features, International
+2          InuYasha the Movie: Affections Touching Across...   Action & Adventure, Anime Features, International
+3          Naruto Shippuden the Movie: Blood Prison            Action & Adventure, Anime Features, International
+4          Naruto Shippûden the Movie: Bonds                   Action & Adventure, Anime Features, International
